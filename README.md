@@ -1,1 +1,1 @@
-![img](Password_Generator.png)
+![img](Password_Gen.png)
