@@ -30,4 +30,4 @@ __The passowrd can not be shorter than 5 characters, if giving a lenght shorter 
 - [This article](https://www.geeksforgeeks.org/generating-strong-password-using-python/) was used as a reference.
 
 ## License
-
+[MIT](https://github.com/quantumporium/password_generator/blob/main/LICENSE)
