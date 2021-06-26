@@ -1,2 +1,1 @@
-# password_generator
-Create a password trought the command line
+![img](Password_Generator.png)
